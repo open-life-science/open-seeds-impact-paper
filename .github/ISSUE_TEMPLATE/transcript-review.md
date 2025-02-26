@@ -2,10 +2,13 @@
 name: Transcript review
 about: Double-check for anonymity
 title: 'Transcript review before deposit: '
-labels: 'Transcript check'
+labels: 'transcript'
+
 ---
 
+### Transcript Language: 
 
+English / Spanish
 
 # Task: 
 
